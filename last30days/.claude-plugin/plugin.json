@@ -1,0 +1,9 @@
+{
+  "name": "last30days",
+  "version": "4.6.0",
+  "description": "Pesquisa o que as pessoas dizem sobre um assunto nos últimos 30 dias (Reddit, X, YouTube, Hacker News, Polymarket, GitHub e web). Cópia de mvanhorn/last30days-skill, sem as imagens de demonstração.",
+  "author": { "name": "Matt Van Horn", "url": "https://github.com/mvanhorn" },
+  "homepage": "https://github.com/mvanhorn/last30days-skill",
+  "license": "MIT",
+  "hooks": "./.claude-plugin/hooks.json"
+}
