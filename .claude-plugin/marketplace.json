@@ -1,0 +1,13 @@
+{
+  "name": "mn",
+  "owner": { "name": "lipedubas-tech" },
+  "metadata": { "description": "Skills e ferramentas que o Felipe usa no Claude Code." },
+  "plugins": [
+    {
+      "name": "ferramentas",
+      "source": "./ferramentas",
+      "description": "Hallmark (design de páginas) e REA (engenharia reversa, com o servidor MCP).",
+      "version": "1.0.0"
+    }
+  ]
+}
